@@ -8,7 +8,7 @@
 
 <h5 align="center">  
 
- **[Paper](https://arxiv.org/pdf/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
+ **[Paper](https://arxiv.org/pdf/2312.17432)** | **[Project Page](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding)**
 
 </h5>
 
@@ -260,10 +260,10 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-LLMs-for-Video-Understanding&type=Date)](https://star-history.com/#yunlong10/Awesome-LLMs-for-Video-Understanding&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yoloytang/Awesome-LLMs-for-Video-Understanding&type=Date)](https://star-history.com/#yoloytang/Awesome-LLMs-for-Video-Understanding&Date)
 
 ### ♥️ Contributors
 
-<a href="https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yunlong10/Awesome-LLMs-for-Video-Understanding" />
+<a href="https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yoloytang/Awesome-LLMs-for-Video-Understanding" />
 </a>
