@@ -2,7 +2,7 @@
 
 ### 🔥🔥🔥 [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)
 
-> *Yunlong Tang<sup>1,\*</sup>, Jing Bi<sup>1,\*</sup>, Siting Xu<sup>2,\*</sup>, Luchuan Song<sup>1</sup>, Susan Liang<sup>1</sup> , Teng Wang<sup>2,3</sup> , Daoan Zhang<sup>1</sup> , Jie An<sup>1</sup> , Jingyang Lin<sup>1</sup> , Rongyi Zhu<sup>1</sup> , Ali Vosoughi<sup>1</sup> , Chao Huang<sup>1</sup> , Zeliang Zhang<sup>1</sup> , Pinxin Liu<sup>1</sup> , Mingqian Feng<sup>1</sup> , Feng Zheng<sup>2</sup> , Jianguo Zhang<sup>2</sup> , Ping Luo<sup>3</sup> , Jiebo Luo<sup>1</sup>, Chenliang Xu<sup>1,†</sup>.*  (\*Core Contributors, †Corresponding Authors)
+> *Yolo Y. Tang<sup>1,\*</sup>, Jing Bi<sup>1,\*</sup>, Siting Xu<sup>2,\*</sup>, Luchuan Song<sup>1</sup>, Susan Liang<sup>1</sup> , Teng Wang<sup>2,3</sup> , Daoan Zhang<sup>1</sup> , Jie An<sup>1</sup> , Jingyang Lin<sup>1</sup> , Rongyi Zhu<sup>1</sup> , Ali Vosoughi<sup>1</sup> , Chao Huang<sup>1</sup> , Zeliang Zhang<sup>1</sup> , Pinxin Liu<sup>1</sup> , Mingqian Feng<sup>1</sup> , Feng Zheng<sup>2</sup> , Jianguo Zhang<sup>2</sup> , Ping Luo<sup>3</sup> , Jiebo Luo<sup>1</sup>, Chenliang Xu<sup>1,†</sup>.*  (\*Core Contributors, †Corresponding Authors)
 
 > *<sup>1</sup>University of Rochester, <sup>2</sup>Southern University of Science and Technology, <sup>3</sup>The University of Hong Kong*
 
@@ -77,7 +77,7 @@ If you find our survey useful for your research, please cite the following paper
 ```bibtex
 @article{vidllmsurvey,
       title={Video Understanding with Large Language Models: A Survey}, 
-      author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
+      author={Tang, Yolo Y. and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
       journal={arXiv preprint arXiv:2312.17432},
       year={2023},
 }
