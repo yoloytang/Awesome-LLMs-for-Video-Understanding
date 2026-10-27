@@ -2,13 +2,13 @@
 
 ### 🔥🔥🔥 [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)
 
-> *[Yolo Y. Tang](https://yunlong10.github.io/)<sup>1</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Siting Xu](https://sai-01.github.io/)<sup>2</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup> , [Teng Wang](http://ttengwang.com/)<sup>2,3</sup> , [Daoan Zhang](https://dwan.ch/)<sup>1</sup> , [Jie An](https://pkuanjie.com/)<sup>1</sup> , [Jingyang Lin](https://jylin.me/)<sup>1</sup> , [Rongyi Zhu](https://www.linkedin.com/in/rongyi-zhu-41b15124a/)<sup>1</sup> , [Ali Vosoughi](https://alivosoughi.com/)<sup>1</sup> , [Chao Huang](https://wikichao.github.io/)<sup>1</sup> , [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup> , [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup> , [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup> , [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ)<sup>2</sup> , [Jianguo Zhang](https://scholar.google.com/citations?user=ypSmZtIAAAAJ)<sup>2</sup> , [Ping Luo](http://luoping.me/)<sup>3</sup> , [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>.*
+> *[Yolo Y. Tang](https://yoloytang.me/)<sup>1</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Siting Xu](https://sai-01.github.io/)<sup>2</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup> , [Teng Wang](http://ttengwang.com/)<sup>2,3</sup> , [Daoan Zhang](https://dwan.ch/)<sup>1</sup> , [Jie An](https://pkuanjie.com/)<sup>1</sup> , [Jingyang Lin](https://jylin.me/)<sup>1</sup> , [Rongyi Zhu](https://www.linkedin.com/in/rongyi-zhu-41b15124a/)<sup>1</sup> , [Ali Vosoughi](https://alivosoughi.com/)<sup>1</sup> , [Chao Huang](https://wikichao.github.io/)<sup>1</sup> , [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup> , [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup> , [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup> , [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ)<sup>2</sup> , [Jianguo Zhang](https://scholar.google.com/citations?user=ypSmZtIAAAAJ)<sup>2</sup> , [Ping Luo](http://luoping.me/)<sup>3</sup> , [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>.*
 
 > *<sup>1</sup>University of Rochester, <sup>2</sup>Southern University of Science and Technology, <sup>3</sup>The University of Hong Kong*
 
 <h5 align="center">  
 
- **[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
+ **[Paper](https://ieeexplore.ieee.org/document/10982110)** | **[arXiv](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding)**
 
 </h5>
 
@@ -18,13 +18,13 @@
 ## 📢 News
 [10/06/2025]
 
-🔥 Our follow-up work—[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)—is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)!
+🔥 Our follow-up work—[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://github.com/yoloytang/Awesome-Video-LMM-Post-Training)—is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)!
 
 
 [05/04/2025]
 
 🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
-👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) \| [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) \| [GitHub](https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding)
 
 [07/23/2024]
 
@@ -495,13 +495,13 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ### 🌟 Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=yunlong10/Awesome-LLMs-for-Video-Understanding&type=Date)](https://star-history.dera.page/#yunlong10/Awesome-LLMs-for-Video-Understanding&type=date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=yoloytang/Awesome-LLMs-for-Video-Understanding&type=Date)](https://star-history.dera.page/#yoloytang/Awesome-LLMs-for-Video-Understanding&type=date)
 
 ### ♥️ Contributors
 
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-[Yolo Y. Tang](https://yunlong10.github.io) @ University of Rochester \
+[Yolo Y. Tang](https://yoloytang.me) @ University of Rochester \
 [Jing Bi](https://jing-bi.github.io) @ University of Rochester \
 [Siting Xu](https://sai-01.github.io) @ Southern University of Science and Technology \
 [Luchuan Song](https://songluchuan.github.io) @ University of Rochester \
@@ -523,6 +523,6 @@ Our project wouldn't be possible without the contributions of these amazing peop
 [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html) @ University of Rochester 
 
 
-<a href="https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yunlong10/Awesome-LLMs-for-Video-Understanding" />
+<a href="https://github.com/yoloytang/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yoloytang/Awesome-LLMs-for-Video-Understanding" />
 </a>
