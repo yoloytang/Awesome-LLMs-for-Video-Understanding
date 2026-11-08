@@ -225,6 +225,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory**](https://arxiv.org/abs/2505.23617) |   -   | 05/2025 |      [code](https://github.com/RAIVNLab/trajvit)       | ICCV 2025 |
 | [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | VideoChat3 | 07/2026 | [code](https://github.com/MCG-NJU/VideoChat3) | arXiv |
 | [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762) | OneStreamer | 10/2026 | [code](https://github.com/MCG-NJU/OneStreamer) | arXiv |
+| [**JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**](https://arxiv.org/abs/2606.14777) | JoyAI-VL-Interaction | 06/2026 | [code](https://github.com/jd-opensource/JoyAI-VL-Interaction) | arXiv |
 
 
 ##### LLM as Regressor
@@ -261,6 +262,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700) |   OneLLM   | 12/2023 |      [code](https://github.com/csuhan/OneLLM)       | arXiv |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |   GPT4Video   | 11/2023 |      [code](https://gpt4video.github.io)       | ACMMM |
 | [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | VideoJev | 10/2026 | [code](https://github.com/MCG-NJU/VideoJev) | arXiv |
+| [**MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**](https://arxiv.org/abs/2610.22276) | MJev-Spatial | 10/2026 | [code](https://github.com/Fr0zenCrane/MJev-Spatial) | arXiv |
 
 #### 🧭 (Analyzer + Embedder) × LLM
 
