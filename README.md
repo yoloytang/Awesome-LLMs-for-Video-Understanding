@@ -250,6 +250,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988) |   SeViLA   | 11/2023 |      [code](https://github.com/Yui010206/SeViLA)       | NeurIPS |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445) |   VTimeLLM   | 11/2023 |      [code](https://github.com/huangb23/VTimeLLM)       | arXiv |
 | [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | TimeLens2 | 07/2026 | [code](https://github.com/MCG-NJU/TimeLens2) | arXiv |
+| [**Grounding with Confidence: Controllable Generative Video Temporal Grounding**](https://arxiv.org/abs/2609.39883) | CTVG-4B | 09/2026 | [code](https://github.com/Alibaba-VELLDEPTH/Grounding-with-Confidence) | arXiv |
 
 ##### LLM as Hidden Layer
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
